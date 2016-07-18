@@ -1,0 +1,20 @@
+Package: netensembleR
+Type: Package
+Title: Description, Analysis, and Sampling of Directed Networks
+Version: 0.1
+Date: 2015-01-19
+Author: Ulrich Matter
+Maintainer: Ulrich Matter <ulrich.matter@unibas.ch>
+Description: Provides a variety of functions to statistically
+    describe and analyze directed graphs as well as an R-implementation of the
+    'maximize-and-sample' method for unbiased sampling of network ensembles.
+License: GPL-2
+Depends:
+    R (>= 3.1.1)
+Imports:
+    igraph,
+    nloptr,
+    nleqslv
+NeedsCompilation: no
+Repository: CRAN
+RoxygenNote: 5.0.1
