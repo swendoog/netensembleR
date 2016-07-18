@@ -15,7 +15,7 @@ An R package that provides a variety of functions to statistically analyze direc
 ### Contribution guidelines ###
 
 * Code review
-* Other guidelines: suggestions for extensions etc.
+* Suggestions for extensions etc.
 
 ### References ###
-The part of the package containing the R-implementation of the MAX&SAM method is a (partial) translation of MAXandSAM.m of the 'MAX&SAM'-matlab package. The original matlab code copyright is: Mastrandrea Rossana, 2014. See Tiziano Squartini, Rossana Mastrandrea, and Diego Garlaschelli (2015) "Unbiased sampling of network ensembles", New Journal of Physics 17: 023052, and http://www.mathworks.com/matlabcentral/fileexchange/46912-max-sam-package-zip.
+The part of the package containing the R-implementation of MAX&SAM is a (partial) translation of MAXandSAM.m of the 'MAX&SAM'-matlab package. The original matlab code copyright is: Mastrandrea Rossana, 2014. See Tiziano Squartini, Rossana Mastrandrea, and Diego Garlaschelli (2015) "Unbiased sampling of network ensembles", New Journal of Physics 17: 023052, and http://www.mathworks.com/matlabcentral/fileexchange/46912-max-sam-package-zip.
