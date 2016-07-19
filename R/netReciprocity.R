@@ -19,7 +19,7 @@
 ##' # (alternatively with the adjacency matrix as input...)
 ##' a1 <- random_Matrix(Method="DWCM", n_vertices=10)
 ##' 
-##' netReciprocity(a1, nm="DWCM", 20)
+##' netReciprocity(a1, nm="DWCM", 10)
 ##' 
 ##' @export
 ##' 

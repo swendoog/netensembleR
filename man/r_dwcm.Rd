@@ -23,7 +23,7 @@ Computes the expected weighted reciprocity under the directed weighted configura
 library(igraph)
 g1 <- graph(c(1,2,2,1, 1,3,3,2), directed=TRUE)
 E(g1)$weight <- c(2, 1, 3, 0)
-a1 <- random_Matrix(Method="DWCM", n_vertices=20)
+a1 <- random_Matrix(Method="DWCM", n_vertices=10)
 
 # compute r
 r_dwcm(g1)

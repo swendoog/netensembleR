@@ -36,7 +36,7 @@ rho(g1, nm="WRG")
 
 # directed weighted configuration model example
 # (alternatively with the adjacency matrix as input...)
-a1 <- random_Matrix(Method="DWCM", n_vertices=20)
+a1 <- random_Matrix(Method="DWCM", n_vertices=10)
 
 rho(a1, nm="DWCM")
 

@@ -21,8 +21,8 @@
 ##' the specific ensemble(s) you select in the routine."
 ##' 
 ##' [1] Tiziano Squartini, Rossana Mastrandrea, Diego Garlaschelli,
-##' "Unbiased sampling of network ensembles", http://arxiv.org/abs/1406.1197 
-##' (Please replace this preprint version with the final published version, as soon as the latter is available.)
+##' "Unbiased sampling of network ensembles", 
+##' New Journal of Physics 17: 023052
 ##' 
 ##' [2] Tiziano Squartini, Diego Garlaschelli, "Analytical maximum-likelihood method to detect patterns in real networks", 
 ##' New Journal of Physics 13: 083001, (2011).

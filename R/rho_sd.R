@@ -16,7 +16,7 @@
 ##' # (alternatively with the adjacency matrix as input...)
 ##' a1 <- random_Matrix(Method="DWCM", n_vertices=10)
 ##' 
-##' rho_sd(a1, nm="DWCM", 20)
+##' rho_sd(a1, nm="DWCM", 10)
 ##' 
 ##' @export
 ##' 
